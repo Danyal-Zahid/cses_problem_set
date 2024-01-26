@@ -1,3 +1,5 @@
+# https://cses.fi/problemset/task/1621/
+
 number_of_values = input()
 values = input().split()
 distinct_values = 0
